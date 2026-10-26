@@ -1,0 +1,3 @@
+- cohete.mp4: NASA (dominio público) — TROPICS Rocket Launch — https://images.nasa.gov/details/KSC-20230507-MH-RLS01-TROPICS_Rocket_Launch-Rocket_Lab-WON_3330130
+- barco.mp4: CC0 — Tvabutzku1234 — https://commons.wikimedia.org/wiki/File:Ship_Containerships_VIII.ogv
+- prueba-coverr.mp4: Coverr (licencia comercial, crédito requerido) — Taking shoes out to a customer — https://coverr.co/videos/taking-shoes-out-to-a-customer-xu6v3b5g75

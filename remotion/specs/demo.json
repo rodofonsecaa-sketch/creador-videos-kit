@@ -1,0 +1,10 @@
+{
+  "formato": "horizontal",
+  "musica": "sfx.wav",
+  "colores": ["#0b1d3a", "#1d4ed8", "#f59e0b"],
+  "escenas": [
+    {"titulo": "Supply Chain", "subtitulo": "Eficiencia en cada eslabón", "subtitulo_pie": "Video de prueba generado con Remotion", "segundos": 4},
+    {"titulo": "Menos riesgo", "subtitulo": "Más control del inventario", "subtitulo_pie": "Animaciones, música y subtítulos automáticos", "segundos": 3.5, "transicion": "slide"},
+    {"titulo": "Hecho en español", "subtitulo": "MP4 horizontal y vertical", "subtitulo_pie": "Todo gratis, sin APIs de pago", "segundos": 3.5, "transicion": "wipe"}
+  ]
+}

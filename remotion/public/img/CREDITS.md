@@ -1,0 +1,14 @@
+- bodega.jpg: CC BY-SA 3.0 — Rwendland — https://commons.wikimedia.org/wiki/File:Unipart_Logistics_warehouse,_Cowley,_frontage.jpg
+- bodega2.jpg: BY 4.0 — Kari Hakli — https://commons.wikimedia.org/w/index.php?curid=112312612
+- puerto.jpg: CC0 1.0 — s/a — https://www.rawpixel.com/image/5925310/photo-image-background-public-domain-free
+- camion.jpg: BY 2.5 — Cooper.ch 18:48, 17 September 2006 (UTC) — https://commons.wikimedia.org/w/index.php?curid=1182626
+- avion.jpg: BY 2.0 — NCDOTcommunications — https://commons.wikimedia.org/w/index.php?curid=133651226
+- bodega-unsplash.jpg: Unsplash — CHUTTERSNAP (https://unsplash.com/@chuttersnap) — https://unsplash.com/photos/brown-cardboard-boxes-on-white-metal-rack-BNBA1h-NgdY
+- auto-prueba-auto-0.jpg: Unsplash — Barrett Ward (https://unsplash.com/@barrettward) — https://unsplash.com/photos/red-and-blue-cargo-containers-5WQJ_ejZ7y8
+- auto-prueba-auto-2.jpg: Unsplash — Joshua Woroniecki (https://unsplash.com/@joshuaworoniecki) — https://unsplash.com/photos/a-sunset-over-a-road-AYpTClfno2U
+- auto-cintac-otif-0.jpg: Unsplash — Morteza Mohammadi (https://unsplash.com/@morophoto) — https://unsplash.com/photos/rolls-of-steel-are-lined-up-in-a-warehouse--kWkoUkFyp0
+- auto-cintac-otif-4.jpg: Unsplash — Joshua Woroniecki (https://unsplash.com/@joshuaworoniecki) — https://unsplash.com/photos/a-sunset-over-a-road-AYpTClfno2U
+- auto-otif-2025-0.jpg: Unsplash — Morteza Mohammadi (https://unsplash.com/@morophoto) — https://unsplash.com/photos/rolls-of-steel-are-lined-up-in-a-warehouse--kWkoUkFyp0
+- auto-otif-2025-4.jpg: Unsplash — Joshua Woroniecki (https://unsplash.com/@joshuaworoniecki) — https://unsplash.com/photos/a-sunset-over-a-road-AYpTClfno2U
+- auto-otif-historico-0.jpg: Unsplash — Morteza Mohammadi (https://unsplash.com/@morophoto) — https://unsplash.com/photos/rolls-of-steel-are-lined-up-in-a-warehouse--kWkoUkFyp0
+- auto-otif-historico-5.jpg: Unsplash — Joshua Woroniecki (https://unsplash.com/@joshuaworoniecki) — https://unsplash.com/photos/a-sunset-over-a-road-AYpTClfno2U

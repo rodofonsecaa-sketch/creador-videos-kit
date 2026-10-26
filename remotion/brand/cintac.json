@@ -1,0 +1,9 @@
+{
+  "nombre": "Cintac",
+  "marca": {"nombre": "Abastecimiento Cintac"},
+  "colores": ["#06205C", "#1d4ed8", "#FA4D09"],
+  "pista": "music/inspired.mp3",
+  "lut": "04-film",
+  "voz": "chile",
+  "formato": "horizontal"
+}

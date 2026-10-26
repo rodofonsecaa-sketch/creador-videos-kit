@@ -1,0 +1,13 @@
+﻿node_modules/
+out/
+entregas/
+voices/
+renders/
+respaldos/
+.hyperframes/
+.env*
+*.zip
+*.mp4
+*.wav
+*.onnx
+*.bin

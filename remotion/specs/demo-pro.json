@@ -1,0 +1,12 @@
+{
+  "formato": "horizontal",
+  "colores": ["#0b1d3a", "#1d4ed8", "#f59e0b"],
+  "marca": {"nombre": "Supply Chain"},
+  "escenas": [
+    {"titulo": "Supply Chain", "imagen": "bodega.jpg", "subtitulo": "Eficiencia en cada eslabón", "narracion": "Hola, este es un video profesional generado automáticamente con voz, subtítulos y gráficos."},
+    {"titulo": "Resultados del mes", "transicion": "slide", "narracion": "Estos son los indicadores clave de abastecimiento.",
+     "kpis": [{"etiqueta": "Nivel de servicio", "valor": 96, "sufijo": "%"}, {"etiqueta": "Rotación", "valor": 8}, {"etiqueta": "Quiebres", "valor": 12}]},
+    {"titulo": "Quiebres por centro", "transicion": "wipe", "narracion": "Los quiebres de stock se concentran en tres centros de distribución.",
+     "grafico": {"unidad": "uds", "datos": [{"etiqueta": "Santiago", "valor": 420}, {"etiqueta": "Concepción", "valor": 260}, {"etiqueta": "Antofagasta", "valor": 130}]}}
+  ]
+}

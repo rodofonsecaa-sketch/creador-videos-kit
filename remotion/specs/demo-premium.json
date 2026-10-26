@@ -1,0 +1,13 @@
+{
+  "formato": "horizontal",
+  "colores": ["#0b1d3a", "#1d4ed8", "#f59e0b"],
+  "marca": {"nombre": "Supply Chain"},
+  "pista": "music/corporate.mp3",
+  "escenas": [
+    {"titulo": "Cadena de suministro 2026", "imagen": "puerto.jpg", "subtitulo": "Menos quiebres, más servicio", "narracion": "Así mejoramos el abastecimiento de punta a punta durante este año."},
+    {"plantilla": "dividida", "titulo": "Bodega al día", "imagen": "bodega2.jpg", "transicion": "slide", "puntos": ["Inventario cuadrado", "Picking más rápido", "Cero quiebres críticos"], "narracion": "En bodega cuadramos el inventario y aceleramos el picking."},
+    {"plantilla": "cifra", "titulo": "Nivel de servicio", "transicion": "wipe", "cifra": {"valor": 96, "sufijo": "%", "porcentaje": 96, "etiqueta": "pedidos a tiempo"}, "narracion": "El nivel de servicio llegó a noventa y seis por ciento."},
+    {"plantilla": "pasos", "titulo": "Nuestro flujo", "pasos": [{"titulo": "Compra", "detalle": "Orden al proveedor", "icono": "dinero"}, {"titulo": "Transporte", "detalle": "Ruta optimizada", "icono": "camion"}, {"titulo": "Bodega", "detalle": "Recepción y control", "icono": "bodega"}, {"titulo": "Entrega", "detalle": "Cliente satisfecho", "icono": "check"}], "narracion": "El flujo va desde la compra hasta la entrega al cliente."},
+    {"plantilla": "cierre", "titulo": "Gracias", "imagen": "camion.jpg", "subtitulo": "Seguimos mejorando", "cta": "Hablemos de tu cadena", "narracion": "Gracias por ver este video. Seguimos mejorando cada eslabón."}
+  ]
+}

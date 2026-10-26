@@ -1,0 +1,41 @@
+{
+ "formato": "horizontal",
+ "colores": [
+  "#0b1d3a",
+  "#1d4ed8",
+  "#f59e0b"
+ ],
+ "marca": {
+  "nombre": "Supply Chain"
+ },
+ "pista": "music/inspired.mp3",
+ "escenas": [
+  {
+   "titulo": "Abastecimiento 2026",
+   "buscar": "container port cranes",
+   "subtitulo": "Menos quiebres, más servicio",
+   "narracion": "Así mejoramos el abastecimiento este año.",
+   "imagen": "auto-prueba-auto-0.jpg"
+  },
+  {
+   "plantilla": "cifra",
+   "titulo": "Nivel de servicio",
+   "cifra": {
+    "valor": 96,
+    "sufijo": "%",
+    "porcentaje": 96,
+    "etiqueta": "pedidos a tiempo"
+   },
+   "narracion": "El nivel de servicio llegó a noventa y seis por ciento."
+  },
+  {
+   "plantilla": "cierre",
+   "titulo": "Gracias",
+   "buscar": "truck highway sunset",
+   "subtitulo": "Seguimos mejorando",
+   "cta": "Hablemos de tu cadena",
+   "narracion": "Gracias por ver este video.",
+   "imagen": "auto-prueba-auto-2.jpg"
+  }
+ ]
+}

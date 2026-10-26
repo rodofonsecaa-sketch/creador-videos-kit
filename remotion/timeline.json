@@ -1,0 +1,36 @@
+{
+  "duration": 26.39,
+  "scenes": [
+    {
+      "start": 0,
+      "dur": 4.38,
+      "transicion": null
+    },
+    {
+      "start": 3.88,
+      "dur": 5.44,
+      "transicion": "fade"
+    },
+    {
+      "start": 8.82,
+      "dur": 5.2,
+      "transicion": "fade"
+    },
+    {
+      "start": 13.52,
+      "dur": 6.09,
+      "transicion": "fade"
+    },
+    {
+      "start": 19.11,
+      "dur": 4,
+      "transicion": "fade"
+    },
+    {
+      "start": 22.61,
+      "dur": 3.78,
+      "transicion": "fade"
+    }
+  ],
+  "cama": false
+}
